@@ -4,4 +4,5 @@ import { galleryItems } from './gallery-items';
 
 console.log(galleryItems);
 
-const a = 'hello'
+const a = 'hello';
+const b = 5;
